@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Starship_Combat/1.0.0": {
+        "runtime": {
+          "Starship_Combat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Starship_Combat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

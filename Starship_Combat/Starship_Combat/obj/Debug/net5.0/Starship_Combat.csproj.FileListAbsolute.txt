@@ -1,0 +1,16 @@
+C:\Users\speco\source\repos\Starship_Combat\Starship_Combat\bin\Debug\net5.0\Starship_Combat.exe
+C:\Users\speco\source\repos\Starship_Combat\Starship_Combat\bin\Debug\net5.0\Starship_Combat.deps.json
+C:\Users\speco\source\repos\Starship_Combat\Starship_Combat\bin\Debug\net5.0\Starship_Combat.runtimeconfig.json
+C:\Users\speco\source\repos\Starship_Combat\Starship_Combat\bin\Debug\net5.0\Starship_Combat.runtimeconfig.dev.json
+C:\Users\speco\source\repos\Starship_Combat\Starship_Combat\bin\Debug\net5.0\Starship_Combat.dll
+C:\Users\speco\source\repos\Starship_Combat\Starship_Combat\bin\Debug\net5.0\ref\Starship_Combat.dll
+C:\Users\speco\source\repos\Starship_Combat\Starship_Combat\bin\Debug\net5.0\Starship_Combat.pdb
+C:\Users\speco\source\repos\Starship_Combat\Starship_Combat\obj\Debug\net5.0\Starship_Combat.csproj.AssemblyReference.cache
+C:\Users\speco\source\repos\Starship_Combat\Starship_Combat\obj\Debug\net5.0\Starship_Combat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\speco\source\repos\Starship_Combat\Starship_Combat\obj\Debug\net5.0\Starship_Combat.AssemblyInfoInputs.cache
+C:\Users\speco\source\repos\Starship_Combat\Starship_Combat\obj\Debug\net5.0\Starship_Combat.AssemblyInfo.cs
+C:\Users\speco\source\repos\Starship_Combat\Starship_Combat\obj\Debug\net5.0\Starship_Combat.csproj.CoreCompileInputs.cache
+C:\Users\speco\source\repos\Starship_Combat\Starship_Combat\obj\Debug\net5.0\Starship_Combat.dll
+C:\Users\speco\source\repos\Starship_Combat\Starship_Combat\obj\Debug\net5.0\ref\Starship_Combat.dll
+C:\Users\speco\source\repos\Starship_Combat\Starship_Combat\obj\Debug\net5.0\Starship_Combat.pdb
+C:\Users\speco\source\repos\Starship_Combat\Starship_Combat\obj\Debug\net5.0\Starship_Combat.genruntimeconfig.cache
